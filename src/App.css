@@ -6,7 +6,7 @@ header { background: #fff; border-bottom: 1px solid #e0e0da; padding: 16px 24px;
 header h1 { font-size: 18px; font-weight: 500; }
 header p { font-size: 13px; color: #666; margin-top: 2px; }
 
-#app { display: flex; flex-direction: column; height: calc(100vh - 65px); }
+#app { display: flex; flex-direction: column; height: calc(100vh); }
 
 #toolbar {
   background: #fff;
